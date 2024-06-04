@@ -1,0 +1,26 @@
+body {
+
+}
+
+h1 {
+	text-align: center;
+	text-shadow: 4px 4px lightgrey;
+	font-size: 50px;
+}
+
+img {
+	border-radius: 10px;
+	box-shadow: 1px 4px 8px 1px black;
+}
+
+button{ 
+	padding: 2px;
+	margin: 10px;
+	background-color: lightpink;
+	box-shadow: 1px 2px 6px 1px black;
+	border-radius: 5px;
+ }
+
+ #dateTime {
+ 	text-decoration: underline;
+ }
